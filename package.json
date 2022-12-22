@@ -18,7 +18,7 @@
   "homepage": "https://github.com/usamamajid6/Login-SignUp-with-mongoDB-Node-Express#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "mongoose": "^5.6.1",
     "nodemon": "^1.19.1"
   }
